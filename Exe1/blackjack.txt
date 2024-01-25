@@ -1,0 +1,11 @@
+
+card = dealer's hand
+
+START Loop
+IF card's value is less than 17 THEN
+HIT and ADD the value of the card to the total value
+ELSE 
+IF value ≤ 21 THEN
+OUTPUT Stand
+ELSE
+OUTPUT Lose
